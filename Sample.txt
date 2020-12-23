@@ -1,6 +1,11 @@
-This is my sample code . This is for Learning Git
 
-Git Commands I Learn today:
-1 ) git init
-2) git add
-3) git commit
+
+<html>
+<head>
+<body>
+<h1>Ok, Go ahead with Git Learning at the earliest . Coming week, we plan for a Demo..</h1>
+</body>
+</head>
+</html>
+
+
